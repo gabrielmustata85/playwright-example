@@ -1,6 +1,6 @@
-# beyond-monitoring-test-automation
+# test-automation
 
-Beyond Monitoring Test Automation
+Project Test Automation
 
 Initial steps to setup:
 1. Download VSCode + Extensions (ESLint, Playwright Test for VSCode, Prettier)
